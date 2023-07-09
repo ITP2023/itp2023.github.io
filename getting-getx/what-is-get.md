@@ -5,7 +5,7 @@ prev:
   link: "/getting-getx/"
 next:
   text: "TBA"
-  link: "/getting-getx/tba"
+  link: "/tba"
 ---
 
 # What is GetX?

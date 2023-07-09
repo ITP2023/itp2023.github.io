@@ -19,20 +19,23 @@ export default defineConfig({
         text: 'Contents',
         items: [
           { text: "Who is the Prisoner?", link: "/whoami" },
-          {
-            text: "Writings",
-            items: [
+
               {
                 text: "Getting GetX", link: "/getting-getx/",
                 items: [
                   { text: "Introduction", link: "/getting-getx/" },
                   { text: "What is GetX?", link: "/getting-getx/what-is-get" },
-                  { text: "There's more", link: "/getting-getx/tba" }
+                  { text: "There's more", link: "/tba" }
+                ]
+              },
+              {
+                text: "Reacting to Refine", link: "/reacting-refine",
+                items: [
+                  { text: "Providers", link: "/reacting-refine/providers" }
                 ]
               }
-            ]
-          }
         ]
+          
       }
     ],
 

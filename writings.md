@@ -10,6 +10,7 @@ A few writings can be found on this website made with the intent of helping prog
 
 As such, you can expect this page to be updated every time a guide is out.
 
-## Current Writings
+## Here they are
 
 - [Getting GetX](/getting-getx/)
+- [Reacting to Refine](/reacting-refine/)
