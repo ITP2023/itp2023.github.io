@@ -10,7 +10,8 @@ export default defineConfig({
     siteTitle: "ITP2023",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/' },
+      { text: "Writings", link: "/writings" }
     ],
 
     sidebar: [
