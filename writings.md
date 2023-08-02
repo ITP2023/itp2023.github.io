@@ -13,4 +13,3 @@ As such, you can expect this page to be updated every time a guide is out.
 ## Here they are
 
 - [Getting GetX](/getting-getx/)
-- [Reacting to Refine](/reacting-refine/)
