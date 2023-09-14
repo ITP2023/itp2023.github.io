@@ -27,12 +27,6 @@ export default defineConfig({
                   { text: "What is GetX?", link: "/getting-getx/what-is-get" },
                   { text: "There's more", link: "/tba" }
                 ]
-              },
-              {
-                text: "Reacting to Refine", link: "/reacting-refine",
-                items: [
-                  { text: "Providers", link: "/reacting-refine/providers" }
-                ]
               }
         ]
           
